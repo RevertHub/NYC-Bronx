@@ -1,1 +1,1 @@
-game.Players.localplayer:Kick("New Loadstring | RevertHub")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RevertHub/Revert-Hub/main/File"))()
